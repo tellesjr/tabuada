@@ -15,4 +15,6 @@ function gerarTabuada() {
             c++
         }
     }
-}   
+}
+
+// fim
